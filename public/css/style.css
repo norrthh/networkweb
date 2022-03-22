@@ -242,6 +242,11 @@ footer p {
     border: 0;
 }
 
+.donate .form-control:focus {
+    background-color: #222745;
+    color: #fff;
+}
+
 .donate .btn {
     padding:20px;
     margin-top:30px;
